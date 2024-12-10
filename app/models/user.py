@@ -17,4 +17,4 @@ class User(Base):
 
 
 
-print(CreateTable(User.__table__))
+
